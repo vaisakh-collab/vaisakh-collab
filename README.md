@@ -1,8 +1,8 @@
 # Hi there, I'm Vaisakh! 👋
 
-🎓 B.Tech Computer Science Engineering Student  
-💻 Exploring software development, algorithms, and computational geometry  
-🌏 A language enthusiast who enjoys learning languages and discovering new cultures.
+🎓  B.Tech Computer Science Engineering Student  
+💻  Exploring software development, algorithms, and computational geometry  
+🌏  A language enthusiast who enjoys learning languages and discovering new cultures.
 
 ### 🚀 About Me
 
