@@ -25,7 +25,7 @@
 
 **Tools & Platforms**
 
-`Git` · `GitHub` · `VS Code` · `Three.js`
+`Git` · `GitHub` · `VS Code`
 
 ### 🌟 Featured Interests
 
